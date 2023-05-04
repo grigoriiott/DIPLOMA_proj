@@ -21,7 +21,7 @@ def main_film():
     model = MyModel()
 
     cap = cv2.VideoCapture("../DATA/video/7.mp4")
-    result = cv2.VideoWriter('../ready_vids/after_optim/vid7_optim.avi', cv2.VideoWriter_fourcc(*"MJPG"), 20.0, (1536, 864))
+    result = cv2.VideoWriter('../ready_vids/after_optim2/vid7_optim.avi', cv2.VideoWriter_fourcc(*"MJPG"), 20.0, (1536, 864))
     while(cap.isOpened()):
         success, img = cap.read()
         if success == True:
