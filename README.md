@@ -1,5 +1,6 @@
 # DIPLOMA project
 Detectron2 Surface Segmentation in Siberian urban area
+Full repo with Data in final model: https://drive.google.com/drive/folders/1KLfa4xYK_TjckrwDUyJzvjpkD0tolWKC?usp=sharing
 
 
 
