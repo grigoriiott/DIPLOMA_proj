@@ -7,6 +7,7 @@
 Были самостоятельно собраны кадры различных подстилающих поверхностей в условиях зимней городской среды. 
 В ходе предобработки и аннотации данных были определены 6 основных типов подстилающих поверхностей.
 <img width="504" alt="image" src="https://github.com/grigoriiott/DIPLOMA_proj/assets/92350053/cbc16f2f-77df-47b6-9756-0032eb5eda8e">
+
 Обработанный датасет был опубликован на kaggle: https://www.kaggle.com/datasets/grigoriiott/urban-underlying-surfaces-in-winter-dataset
 
 # Модель
